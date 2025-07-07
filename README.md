@@ -8,6 +8,6 @@ git clone https://github.com/jfdameyf/triple-ten-project
 cd tripleten
 python -m venv venv
 source venv/bin/activate
-pip isntall -r requirements.txt
+pip install -r requirements.txt
 
 render url: https://triple-ten-project-i5z4.onrender.com
